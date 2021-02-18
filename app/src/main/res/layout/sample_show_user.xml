@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/userProfile"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="5dp"
+        android:padding="5dp"
+        android:src="@drawable/profile"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginStart="5dp"
+            android:padding="5dp"
+            android:orientation="vertical">
+           <TextView
+               android:id="@+id/mUserName"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:textSize="20sp"
+               android:textStyle="bold"
+               android:paddingTop="5dp"
+               android:paddingBottom="5dp"
+               android:text="@string/username"/>
+            <TextView
+                android:id="@+id/mLastMessage"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+                android:paddingTop="2dp"
+                android:paddingBottom="2dp"
+               android:text="@string/last_message"/>
+        </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SpChat</string>
+    <string name="username">userName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_account">Already have account</string>
+    <string name="signup">Sign Up</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="googel">GOOGLE</string>
+    <string name="signup_with_phone">Signup with phone</string>
+    <string name="dont_have_an_account">Dont Have an account</string>
+    <string name="signin">Sign In</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="last_message">Last Message</string>
+    <string name="message">Enter Your Message</string>
+    <string name="group_chat">Group Chat</string>
+    <string name="username1">UserName:</string>
+    <string name="status">Status:</string>
+    <string name="save">Save</string>
+    <string name="sp_abinash">Sp Abinash</string>
+    <string name="share">Share</string>
+    <string name="notification">Notification</string>
+    <string name="help">Help</string>
+    <string name="invite_a_friend">Invite a Friend</string>
+    <string name="about_us">About Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+</resources>

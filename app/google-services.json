@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015428551819",
+    "project_id": "spchat-fae5e",
+    "storage_bucket": "spchat-fae5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015428551819:android:1f7a24e350095d4ef6308e",
+        "android_client_info": {
+          "package_name": "com.technoabinash.spchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015428551819-6e38p1gcr5k6rapdm67k1nuoi5pvo13e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAbGqvkKGYo7vKyQY_7Wb8hn7MQuNUkAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015428551819-6e38p1gcr5k6rapdm67k1nuoi5pvo13e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
